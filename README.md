@@ -17,3 +17,4 @@ $ cd [location of riscv-vp]/sw/basic-filter
 $ make
 $ make sim
 ```
+Before "make sim", please change the location of riscv-vp at line 5 in Makefile.
